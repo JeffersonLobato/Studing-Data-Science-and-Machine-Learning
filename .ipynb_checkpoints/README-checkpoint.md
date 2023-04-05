@@ -12,4 +12,6 @@ In this repository, there are the register of my learning about Data Science and
 
 <h2>Projects</h2>
 
-<a href="https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/predicting_apartment_prices.ipynb"><h3>Click here to Project Predicting Apartment Prices.</h3></a>
+<ul>
+    <li><a href="https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/predicting_apartment_prices.ipynb">Click here to Project Predicting Apartment Prices.</a></li>
+</ul>
