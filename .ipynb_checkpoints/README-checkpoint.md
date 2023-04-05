@@ -7,9 +7,9 @@ In this repository, there are the register of my learning about Data Science and
 
 <h2>Notes</h2>
 <ul>
-    <li><a href=''>Here will stay the link of my notes.</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/fundamentals_AI_and_ML.ipynb'>Click here to Fundamentals of Artificial Intelligence and Machine Learning.</a></li>
 </ul>
 
-<h2>Project 1</h2>
+<h2>Projects</h2>
 
-<a href="">Here will stay the link of my projects</a>
+<a href="https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/predicting_apartment_prices.ipynb"><h3>Click here to Project Predicting Apartment Prices.</h3></a>
