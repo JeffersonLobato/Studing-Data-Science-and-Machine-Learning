@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">My study about Data Science and Machine Learning with Python</h1>
 
 <p style="text-align: justify;">
-In this repository, there are the register of my learning about Data Science and Machine Learning with Python throught <a href="https://asimov.academy/" target="_blank">Asimov Academy</a>. There are some projects and notes.
+In this repository, there are the register of my learning about Data Science and Machine Learning with Python throught <a href="https://asimov.academy/">Asimov Academy</a>. There are some projects and notes.
 </p>
 
 
