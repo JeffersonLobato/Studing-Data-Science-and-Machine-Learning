@@ -8,7 +8,6 @@ In this repository, there are the register of my learning about Data Science and
 <h2>Notes</h2>
 <ul>
     <li><a href='https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/fundamentals_AI_and_ML.ipynb'>Click here to Fundamentals of Artificial Intelligence and Machine Learning.</a></li>
-    
     <li><a href='https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/Identifying%20handwritten%20numbers.ipynb'>Click Here to Fundamentals of Models Classifications using a project of identifying handwritten numbers.</a></li>
 </ul>
 
@@ -16,6 +15,5 @@ In this repository, there are the register of my learning about Data Science and
 
 <ul>
     <li><a href="https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/predicting_apartment_prices.ipynb">Click here to Project Predicting Apartment Prices.</a></li>
-    
     <li><a href='https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/Identifying%20handwritten%20numbers.ipynb'>Click Here to Fundamentals of Models Classifications using a project of identifying handwritten numbers.</a></li>
 </ul>
