@@ -17,3 +17,5 @@ In this repository, there are the register of my learning about Data Science and
     <li><a href="https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/predicting_apartment_prices.ipynb">Click here to Project Predicting Apartment Prices.</a></li>
     <li><a href='https://github.com/JeffersonLobato/Studing-Data-Science-and-Machine-Learning/blob/main/Identifying%20handwritten%20numbers.ipynb'>Click Here to Fundamentals of Models Classifications using a project of identifying handwritten numbers.</a></li>
 </ul>
+    <li><a href='https://github.com/JeffersonLobato/E-commerce-Data-Analysis'>Click Here to E-commerce Data Analysis.</a></li>
+</ul>
